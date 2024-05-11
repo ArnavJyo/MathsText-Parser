@@ -30,7 +30,7 @@ def convert_to_json(text):
                 
                 option_number = int(abs(ord('A')-ord(line[1])))
                 
-                # Determine if the option is correct based on the answer
+                
                 is_correct = (answer == line[1])
                 
                 options.append({"optionNumber": option_number, "optionText": option_text, "isCorrect": is_correct})
