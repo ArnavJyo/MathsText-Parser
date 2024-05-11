@@ -18,7 +18,7 @@ The script requires Python 3.x and the `re` and `json` modules, which are includ
    git clone https://github.com/ArnavJyo/MathsText-Parser.git
    ```
 
-2. Run the main mathongo_task.py file to start the server
+2. Run the main mathongo_task.py file to run the script
 
 ```
    python mathongo_task.py
